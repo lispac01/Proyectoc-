@@ -1,0 +1,15 @@
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.csproj.AssemblyReference.cache
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.AssemblyInfoInputs.cache
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.AssemblyInfo.cs
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.csproj.CoreCompileInputs.cache
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\bin\Debug\net6.0\Proyectoc#.exe
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\bin\Debug\net6.0\Proyectoc#.deps.json
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\bin\Debug\net6.0\Proyectoc#.runtimeconfig.json
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\bin\Debug\net6.0\Proyectoc#.dll
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\bin\Debug\net6.0\Proyectoc#.pdb
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.dll
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\refint\Proyectoc#.dll
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.pdb
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\Proyectoc#.genruntimeconfig.cache
+C:\Users\lpacheco\desktop\Programación\c#\Proyectoc#\obj\Debug\net6.0\ref\Proyectoc#.dll
