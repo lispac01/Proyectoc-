@@ -30,7 +30,16 @@ public class Persona
     {
        Console.WriteLine("Corriendo........");
     }
+    
+    public void dormir()
+    {
+        Console.WriteLine("Durmiendo........");
+    }
 
+    public void hablar()
+    {
+        Console.WriteLine("Hablando........");
+    }
   
 
 }
