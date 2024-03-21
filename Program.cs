@@ -1,8 +1,13 @@
-﻿class Program
+﻿using Proyectoc;
+
+class Program
 {
     static void Main()
     {
         Persona persona = new Persona();
+        Deportista deportista = new Deportista();
+
+        deportista.Correr();
 
         Console.WriteLine("Ingrese el nombre de la persona");
         persona.nombre = Console.ReadLine();
