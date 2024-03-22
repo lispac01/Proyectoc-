@@ -7,8 +7,13 @@ class Program
     {
         Persona persona = new Persona();
         Deportista deportista = new Deportista();
-
+        musico musico = new musico();
+        
+        WriteLine("objeto deportista");
         deportista.Correr();
+
+        WriteLine("objeto musico");
+        musico.IrConcierto();
 
         WriteLine("Ingrese el nombre de la persona");
         persona.nombre = ReadLine();
