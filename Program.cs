@@ -1,4 +1,5 @@
 ﻿using Proyectoc;
+using static System.Console;
 
 class Program
 {
@@ -9,13 +10,13 @@ class Program
 
         deportista.Correr();
 
-        Console.WriteLine("Ingrese el nombre de la persona");
-        persona.nombre = Console.ReadLine();
+        WriteLine("Ingrese el nombre de la persona");
+        persona.nombre = ReadLine();
 
-        Console.WriteLine("Ingrese la edad de la persona");
-        persona.edad = int.Parse(Console.ReadLine());
+        WriteLine("Ingrese la edad de la persona");
+        persona.edad = int.Parse(ReadLine());
 
-        Console.WriteLine($"Nombre:  {persona.nombre?.ToUpper()}  Edad {persona.edad}");
+        WriteLine($"Nombre:  {persona.nombre?.ToUpper()}  Edad {persona.edad}");
 
         persona.Correr();
         
