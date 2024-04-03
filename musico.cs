@@ -1,4 +1,5 @@
 namespace Proyectoc;
+using static System.Console;
 
 public class musico : Persona
 {
@@ -9,6 +10,8 @@ public class musico : Persona
     {
         Console.WriteLine("El musico va al concierto");
     }
+
+   
 
     
 }

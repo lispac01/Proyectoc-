@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lpacheco\\desktop\\Programación\\c#\\Proyectoc#\\Proyectoc#.csproj": {}
+    "C:\\Users\\lpacheco\\Desktop\\Programación\\C#\\Proyectoc#\\Proyectoc#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lpacheco\\desktop\\Programación\\c#\\Proyectoc#\\Proyectoc#.csproj": {
+    "C:\\Users\\lpacheco\\Desktop\\Programación\\C#\\Proyectoc#\\Proyectoc#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lpacheco\\desktop\\Programación\\c#\\Proyectoc#\\Proyectoc#.csproj",
+        "projectUniqueName": "C:\\Users\\lpacheco\\Desktop\\Programación\\C#\\Proyectoc#\\Proyectoc#.csproj",
         "projectName": "Proyectoc#",
-        "projectPath": "C:\\Users\\lpacheco\\desktop\\Programación\\c#\\Proyectoc#\\Proyectoc#.csproj",
+        "projectPath": "C:\\Users\\lpacheco\\Desktop\\Programación\\C#\\Proyectoc#\\Proyectoc#.csproj",
         "packagesPath": "C:\\Users\\lpacheco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lpacheco\\desktop\\Programación\\c#\\Proyectoc#\\obj\\",
+        "outputPath": "C:\\Users\\lpacheco\\Desktop\\Programación\\C#\\Proyectoc#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lpacheco\\AppData\\Roaming\\NuGet\\NuGet.Config"
